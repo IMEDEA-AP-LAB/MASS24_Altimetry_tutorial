@@ -1,1 +1,3 @@
-# MASS24_Altimetry_tutorial
+# MASS24 Altimetry tutorial
+
+Hands-on tutorial 
